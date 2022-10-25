@@ -16,7 +16,7 @@ header {
 
 nav {
   display: flex;
-  background-color: white;
+  background-color: skyblue;
 }
 
 nav p {
@@ -37,18 +37,14 @@ aside {
 
 section {
   flex: 70%;
-  background-color: black;
+  background-color: white;
   padding: 20px;
-  color: white;
+  color: black;
 }
 
-footer {
-  padding: 20px;
-  text-align: center;
-  background: #13293d;
-  color: #fff;
+.img {
+  align-items: center;
 }
-
 button {
   width: 100px;
   height: 50px;
@@ -68,6 +64,13 @@ button:active {
 button:focus {
   outline: none;
   border-color: darkgreen;
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+  background: #13293d;
+  color: #fff;
 }
 
 /* Tablets - header changes color */
