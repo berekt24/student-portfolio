@@ -11,7 +11,7 @@ header {
   padding: 60px;
   text-align: center;
   background: blue;
-  color: #fff;
+  color: white;
 }
 
 nav {
@@ -54,6 +54,7 @@ button {
 #Home,#About,#Projects,#Contact{
   height: 50px;
   width: 100px;
+  flex: 1 0 200px;
 }
 
 button:hover {
