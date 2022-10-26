@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  padding: 60px;
+  padding: 0px 0px 60px 0px;
   text-align: center;
   background: blue;
   color: white;
@@ -35,13 +35,30 @@ aside {
   flex-wrap: wrap;
 }
 
-section {
+.primary-section {
   flex: 70%;
   background-color: white;
   padding: 20px;
   color: black;
 }
 
+.project-cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.project-cards section{
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+a {
+  text-decoration: none;
+}
 .img {
   align-items: center;
 }
