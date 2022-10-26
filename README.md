@@ -6,6 +6,8 @@ The purpose of this assignment was to create a student portfolio that employers 
 
 ## Screenshot
 
+![student-portfolio](https://user-images.githubusercontent.com/114173723/197921747-179944a8-21d2-4d3e-a3ac-2375ef85a782.png)
+
 
 ## Link
 
