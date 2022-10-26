@@ -46,6 +46,7 @@ aside {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  
 }
 .project-cards section{
   height: 200px;
@@ -55,6 +56,7 @@ aside {
   display: flex;
   align-items: center;
   padding: 5px;
+  background-color: aqua;
 }
 a {
   text-decoration: none;
